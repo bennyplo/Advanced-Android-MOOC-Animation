@@ -1,10 +1,6 @@
 package com.bennyplo.animation;
 
-import android.content.Context;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.opengl.GLES32;
-import android.opengl.GLUtils;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
